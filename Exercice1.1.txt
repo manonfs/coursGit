@@ -1,1 +1,9 @@
-Liste de course
+Liste de course :
+- banane
+- pomme de terre
+- kinder bueno 
+- kinder country
+- carottes
+- redbull
+- donuts
+- popcorn
